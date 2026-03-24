@@ -82,16 +82,16 @@ John Granat
 ## Application Screenshots
 
 ### Login Screen
-![Login](docs/screenshots/Login.png)
+![Login](docs/Screenshots/Login.png)
 
 ### Main Menu
-![Main Menu](docs/screenshots/Main_Menu.png)
+![Main Menu](docs/Screenshots/Main_Menu.png)
 
 ### Customer Management
-![Customers](docs/screenshots/Manage_Customer_Form.png)
+![Customers](docs/Screenshots/Manage_Customer_Form.png)
 
 ### Appointment Management
-![Appointments](docs/screenshots/Manage_Appointments_Form.png)
+![Appointments](docs/Screenshots/Manage_Appointments_Form.png)
 
 ### Reports
-![Reports](docs/screenshots/Reports_Form.png)
+![Reports](docs/Screenshots/Reports_Form.png)
