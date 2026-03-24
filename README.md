@@ -94,5 +94,5 @@ This project demonstrates:
 ![Reports](docs/Screenshots/Reports_Form.png)
 
 ## Author
-John Granat
+John Granat  
 Bachelor of Science - Software Engineering
