@@ -76,9 +76,6 @@ This project demonstrates:
 
 (Note: Database connection details were removed for security.)
 
-## Author
-John Granat
-
 ## Application Screenshots
 
 ### Authentication
@@ -95,3 +92,7 @@ John Granat
 
 ### Reporting System
 ![Reports](docs/Screenshots/Reports_Form.png)
+
+## Author
+John Granat
+Bachelor of Science - Software Engineering
