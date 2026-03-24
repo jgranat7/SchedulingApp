@@ -78,3 +78,20 @@ This project demonstrates:
 
 ## Author
 John Granat
+
+## Application Screenshots
+
+### Login Screen
+![Login](docs/screenshots/Login.png)
+
+### Main Menu
+![Main Menu](docs/screenshots/Main_Menu.png)
+
+### Customer Management
+![Customers](docs/screenshots/Manage_Customer_Form.png)
+
+### Appointment Management
+![Appointments](docs/screenshots/Manage_Appointments_Form.png)
+
+### Reports
+![Reports](docs/screenshots/Reports_Form.png)
