@@ -69,10 +69,10 @@ This project demonstrates:
 
 ## How to Run
 
-1 Clone the repository
-2 Open the solution file in Visual Studio
-3 Configure database connection settings
-4 Run the application
+1. Clone the repository
+2. Open the solution file in Visual Studio
+3. Configure database connection settings
+4. Run the application
 
 (Note: Database connection details were removed for security.)
 
